@@ -45,4 +45,5 @@ Execute o notebook ou script principal:
 python main.py
 
 Autor: Igor Henrique Marques dos Santos
+
 Contato: igorhmsantos@gmail.com | linkedin.com/in/igorhmarques/
